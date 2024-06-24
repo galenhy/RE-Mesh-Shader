@@ -5,3 +5,6 @@
 ## Requirements
 * [Blender 4.1 or higher](https://www.blender.org/download/)
 * [RE Mesh Editor](https://github.com/NSACloud/RE-Mesh-Editor/tree/main)
+
+## To-Do
+- Add velvet material. 
