@@ -23,7 +23,7 @@ Install and enable the addon
 ## Usage
 1. Go to File -> Append -> Shaders.blend -> Object -> Sphere.
 2. Append the Sphere into your current scene.
-3. Add appropritate NodeGroup to your material with Add -> Group or alternatively with F3 and search (Or for FRM_WMmultipliers just copy that and it's textures from the Sphere's material.
+3. Add appropritate NodeGroup to your material with Add -> Group or alternatively with F3 and search (Or for FRM_WMmultipliers just copy that and it's textures from the Sphere's material.)
 4. Import MDF using [RE Mesh Editor](https://github.com/NSACloud/RE-Mesh-Editor/tree/main).
 5. Match the values present in the MDF with the values in the NodeGroup.
 6. For hair to have anistrophy you need to make a new UV and rotate it 90 degrees (UV Rotate and Rename N-Panel does this automatically on all selected meshes).
