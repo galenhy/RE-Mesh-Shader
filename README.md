@@ -28,6 +28,6 @@ Install and enable the addon
 5. Match the values present in the MDF with the values in the NodeGroup.
 6. For hair to have anistrophy you need to make a new UV and rotate it 90 degrees (UV Rotate and Rename N-Panel does this automatically on all selected meshes).
 7. For DisolveRange/DisolveThresold parameters to work tab into the NodeGroup
-8. Find the ColorRamp click the first and right click the factor
+8. Find the ColorRamp select the first handle and right click on the factor
 9. Swap the Material under Prop: to the material you have the NodeGroup under
 10. Repeat step 7 for the other handle (Make new instances of the NodeGroup for every material).
