@@ -10,11 +10,11 @@
 - Add velvet material
 
 # Installation
-Click the code icon -> Download ZIP
+Code -> Download ZIP
 
 Unpack into any directory
 
-Go to Edit -> Preferences -> Addons -> Install and select the included uvrotate.py 
+Go to Edit -> Preferences -> Addons -> Install the included uvrotate.py 
 
 Install and enable the addon
 
