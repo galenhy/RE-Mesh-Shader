@@ -7,4 +7,4 @@
 * [RE Mesh Editor](https://github.com/NSACloud/RE-Mesh-Editor/tree/main)
 
 ## To-Do
-- Add velvet material. 
+- Add velvet material
